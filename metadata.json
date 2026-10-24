@@ -1,0 +1,6 @@
+{
+  "name": "Matriz de Confusión - Guía Interactiva de Machine Learning",
+  "description": "Aprende a interpretar la matriz de confusión y métricas de clasificación en Machine Learning con casos reales por sector, gamificación interactiva, asistente pedagógico y exportación a HTML.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
